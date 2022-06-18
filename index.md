@@ -32,6 +32,17 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/J-Montgomery/sdo_7_quizlet/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+
+<ul class="likert">
+  <li> Not Guilty </li>
+  <li><input type="radio" name="guilty" value="1" /></li>
+  <li><input type="radio" name="guilty" value="2" /></li>
+  <li><input type="radio" name="guilty" value="3" /></li>
+  <li><input type="radio" name="guilty" value="4" /></li>
+  <li><input type="radio" name="guilty" value="5" /></li>
+  <li> Very Guilty </li>
+</ul>
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
